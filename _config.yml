@@ -1,0 +1,17 @@
+typography_spectrum: 0.03625016380101442
+color:
+  brandStrength: 0.4712505314964801
+  lightness: 0.41636748518794775
+  saturation: 0.2190321651287377
+  rhythmicContrast: 0.1291475803591311
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+layout_spectrum: 0.2574031548574567
+name: Sakui
+title: Sakui.net
+description: Ideas and reflections from an image maker
